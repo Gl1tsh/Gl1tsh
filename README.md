@@ -1,4 +1,5 @@
-![VRChat_2024-03-17_22-57-30 753_1080x1920](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/c6417bd3-a9cc-4f22-8c6c-bd48eaaf53ba)
+![Github Profil banner](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/aeac0191-a435-4070-bdee-2a052a207299)
+
 <h3 align="center">My name is Gl1tsh and I'm a student of 42 school, from Switzerland</h3>
 
 ###
