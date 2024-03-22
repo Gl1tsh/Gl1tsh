@@ -1,5 +1,4 @@
-![Github_Profil_banner-removebg](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/69113fb7-9bd4-4842-92d9-9301a8935bb9)
-
+![Github_Profil_banner-new](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/23222b01-3c29-41ad-98b7-50169152db20)
 
 <h3 align="center">My name is Gl1tsh and I'm a student of 42 school, from Switzerland</h3>
 
