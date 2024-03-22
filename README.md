@@ -6,15 +6,10 @@
 
 <br>
 
-<h1 align="center">Tutor & Student at 42</h1>
-
 ![Github_Profil_banner-new](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/23222b01-3c29-41ad-98b7-50169152db20)
 
-<br>
+<h1 align="center">Tutor & Student at 42</h1>
 
----
-
-<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
