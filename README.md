@@ -1,13 +1,14 @@
 <h1 align="center">Student at 42</h1>
 
 ###
-<div align="center">
-  ![Github_Profil_banner-new](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/23222b01-3c29-41ad-98b7-50169152db20)
-</div>
+
+![Github_Profil_banner-new](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/23222b01-3c29-41ad-98b7-50169152db20)
 
 ###
 
-[![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<div align="center">
+  [![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
 
 ###
 
