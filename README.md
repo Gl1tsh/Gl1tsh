@@ -9,6 +9,14 @@
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gl1tsh&theme=noctis-minimus&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="30" />
