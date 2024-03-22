@@ -7,12 +7,6 @@
 ###
 
 <div align="center">
-  [![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
@@ -35,3 +29,9 @@
 ###
 
 ![télécharger](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/28410c99-9da0-404d-aac9-9c0e2780b8dc)
+
+###
+
+[![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+###
