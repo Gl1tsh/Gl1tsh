@@ -5,12 +5,6 @@
 
 ###
 
-<br>
-
----
-
-<br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="30" />
@@ -22,6 +16,12 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
 </div>
+
+<br>
+
+---
+
+<br>
 
 ###
 
