@@ -1,4 +1,4 @@
-<h1 align="center">Student at 42</h1>
+<h1 align="center">Tutor & Student at 42</h1>
 
 ###
 
