@@ -37,8 +37,7 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center;">
-  ![Graph](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/28410c99-9da0-404d-aac9-9c0e2780b8dc)
+![Graph](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/28410c99-9da0-404d-aac9-9c0e2780b8dc)
 
 ###
 
@@ -51,5 +50,3 @@
   [![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/nagiorgi)
 
 ###
-
-</div>
