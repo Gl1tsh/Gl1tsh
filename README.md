@@ -9,7 +9,11 @@
 
 <br>
 
+<div align="center" style="display: flex; justify-content: center;">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gl1tsh&theme=noctis-minimus&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
+</div>
 
 <br>
 
