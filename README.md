@@ -45,6 +45,6 @@
 
 <br>
 
-  [![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/nagiorgi)
+  <!--[![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/nagiorgi)-->
 
 ###
