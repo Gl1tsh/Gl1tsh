@@ -7,7 +7,7 @@
 
 ###
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+[![nagiorgi's 42 stats](https://badge.mediaplus.ma/darkblue/nagiorgi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ###
 
