@@ -1,5 +1,7 @@
 <h1 align="center">Tutor & Student at 42</h1>
 
+<img align="left" src="https://github.com/Gl1tsh/Gl1tsh/assets/69108289/10b7052c-3921-44c0-b466-6e9890891838.png">
+
 ![Github_Profil_banner-new](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/23222b01-3c29-41ad-98b7-50169152db20)
 
 <br>
