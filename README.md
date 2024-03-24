@@ -88,6 +88,7 @@
 
 
 <!-- ===== cursus 42 picture ===== -->
+# 42 School Cursus status
 <img src="git_utils/Cursus_circle.png" alt="logo" style="width: 100%">
 
 ###
