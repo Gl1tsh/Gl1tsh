@@ -76,7 +76,7 @@
 # Link to 42 School projects
 <p align="center">
   <a href="https://github.com/Gl1tsh/42_School">
-    <img src="git_utils/github_repo_42_projects.png" alt="repo_42" style="width: 50%;">
+    <img src="git_utils/42_arcade.png" alt="repo_42" style="width: 50%;">
   </a>
 </p>
 <br>
