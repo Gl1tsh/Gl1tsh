@@ -13,7 +13,7 @@
 
 
 
-<!-- ===== banner end ===== -->
+<!-- ===== Profil banner ===== -->
 
 <img src="git_utils/Profil_banner.png" alt="logo" style="width: 100%">
 
@@ -21,8 +21,20 @@
 
 ##
 
+<div align="center">
 
+<br>
 
+🌟 Ready to Excel in Data Science & AI! 🌟
+
+🎓 Student at School 42, Switzerland (Started October 2023) 🎓
+
+🚀 Passionate about transforming data into actionable insights and leveraging cutting-edge AI technologies to drive innovation and growth. 🌱
+
+💼 Eager to collaborate with forward-thinking companies to tackle real-world challenges and deliver impactful solutions. Let's revolutionize the future together! 🌐
+</div>
+
+<br>
 
 <!-- ===== stats ===== -->
 
