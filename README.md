@@ -75,7 +75,7 @@
 <!-- ===== link for repo ===== -->
 # Link to 42 School projects
 <p align="center">
-  <a href="https://github.com/Gl1tsh?tab=repositories">
+  <a href="https://github.com/Gl1tsh/42_School">
     <img src="git_utils/github_repo_42_projects.png" alt="repo_42" style="width: 50%;">
   </a>
 </p>
