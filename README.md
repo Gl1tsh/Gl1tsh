@@ -32,7 +32,7 @@
 <br>
 🌟 Ready to Excel in Data Science & AI! 🌟
 
-🎓 Student at School 42, Switzerland (Started October 2023) 🎓
+🎓 Student & Tutor at School 42, Switzerland (Started October 2023) 🎓
 
 🚀 Passionate about transforming data into actionable insights and leveraging cutting-edge AI technologies to drive innovation and growth. 🌱
 
