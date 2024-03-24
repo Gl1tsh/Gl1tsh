@@ -22,10 +22,9 @@
 
 
 <!-- ===== Biography ===== -->
+# Profile & Goal
 <div align="center">
-
 <br>
-
 🌟 Ready to Excel in Data Science & AI! 🌟
 
 🎓 Student at School 42, Switzerland (Started October 2023) 🎓
@@ -65,7 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
 </div>
 
-
 <br>
 
 ---
@@ -74,9 +72,23 @@
 <!-- ===== logo of abilities end ===== -->
 
 
+<!-- ===== link for repo ===== -->
+# Link to 42 School projects
+<p align="center">
+  <a href="https://github.com/Gl1tsh/42_School">
+    <img src="git_utils/github_repo_42_projects.png" alt="repo_42" style="width: 50%;">
+  </a>
+</p>
+<br>
+
+---
+
+<br>
+<!-- ===== link for repo end ===== -->
 
 
 <!-- ===== cursus 42 picture ===== -->
+# 42 School Cursus status
 <img src="git_utils/Cursus_circle.png" alt="logo" style="width: 100%">
 
 ###
