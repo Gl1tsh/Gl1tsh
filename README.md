@@ -48,7 +48,7 @@
 <!-- ===== logo of abilities ===== -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vim,vscode,github,notion,bash,ableton,blender,unity,linux,ps" />
+    <img src="https://skillicons.dev/icons?i=c,vim,vscode,github,notion,bash,ableton,blender,unity,linux,ubuntu,ps" />
   </a>
 </p>
 
