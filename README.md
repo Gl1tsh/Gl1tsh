@@ -1,6 +1,8 @@
  <!-- ===== banner 42 start ===== -->
 
-<img src="git_utils/42_banner.png" alt="logo" style="width: 100%">
+<p align="center">
+  <img src="git_utils/42_banner_50.png" alt="logo">
+</p>
 
 <br>
 
