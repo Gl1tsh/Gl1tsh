@@ -45,7 +45,19 @@
 
 
 
+<!-- ===== logo of abilities ===== -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,vim,vscode,github,notion,bash,ableton,blender,unity,linux,ps" />
+  </a>
+</p>
 
+<br>
+
+---
+
+<br>
+<!-- ===== logo of abilities end ===== -->
 
 
 <!-- ===== stats ===== -->
@@ -60,19 +72,7 @@
 
 
 
-<!-- ===== logo of abilities ===== -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vim,vscode,github,notion,bash,ableton,blender,unity,linux,ps" />
-  </a>
-</p>
 
-<br>
-
----
-
-<br>
-<!-- ===== logo of abilities end ===== -->
 
 
 
