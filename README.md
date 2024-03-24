@@ -74,6 +74,18 @@
 <!-- ===== logo of abilities end ===== -->
 
 
+<!-- ===== link for repo ===== -->
+<p align="center">
+  <a href="https://github.com/Gl1tsh?tab=repositories">
+    <img src="git_utils/github_repo_42_projects.png" alt="repo_42" style="width: 50%;">
+  </a>
+</p>
+<br>
+
+---
+
+<br>
+<!-- ===== link for repo end ===== -->
 
 
 <!-- ===== cursus 42 picture ===== -->
