@@ -17,8 +17,9 @@
 
 
 <!-- ===== Profil banner ===== -->
-<img src="git_utils/OIG2-_1_.png" alt="logo" style="width: 100%">
-
+<p align="center">
+ <img src="git_utils/OIG2-_1_.png" alt="logo" style="width: 60%">
+</p>
 ##
 <!-- ===== Profil banner end ===== -->
 
