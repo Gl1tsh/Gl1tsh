@@ -287,11 +287,13 @@
 
 <br>
 
-# 42 School Cursus status
+<div align="center">
+  <h2> Cursus 42 </h2>
+</div>
 
-<p align="center">
- <img width="1425" alt="cursus_42" src="https://github.com/Gl1tsh/42_School/assets/69108289/14a2dc8b-a991-41f8-b90b-700744cc026d">
-</p>
+
+![télécharger](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/26509211-204d-441e-ad02-29208c4c64bc)
+
 
 <!-- ===== cursus 42 picture end ===== -->
 
