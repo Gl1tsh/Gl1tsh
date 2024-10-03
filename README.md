@@ -182,7 +182,7 @@
         <td>C++</td>
         <td>basics of c++ 00 to 09</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
-        <td>In progress 05</td>
+        <td>In progress</td>
       </tr>
       <tr>
         <td>11</td>
@@ -196,7 +196,7 @@
         <td>IRC</td>
         <td>Basic chat application on a web page</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
-        <td>In progress</td>
+        <td>✔</td>
       </tr>
       <tr>
         <td>13</td>
