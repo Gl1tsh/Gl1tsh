@@ -179,7 +179,7 @@
       </tr>
       <tr>
         <td>10</td>
-        <td>C++</td>
+        <td><a href="https://github.com/Gl1tsh/42_CPP">C++</td>
         <td>basics of c++ 00 to 09</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
         <td>✔</td>
