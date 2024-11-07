@@ -292,7 +292,8 @@
 </div>
 
 
-![télécharger](https://github.com/Gl1tsh/Gl1tsh/assets/69108289/26509211-204d-441e-ad02-29208c4c64bc)
+![graph42](https://github.com/user-attachments/assets/55ccdfdf-c0a7-4129-b270-2c5aa2895fda)
+
 
 
 <!-- ===== cursus 42 picture end ===== -->
