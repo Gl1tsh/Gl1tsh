@@ -182,14 +182,14 @@
         <td>C++</td>
         <td>basics of c++ 00 to 09</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
-        <td>In progress</td>
+        <td>✔</td>
       </tr>
       <tr>
         <td>11</td>
         <td>INCEPTION</td>
         <td>Setting up a wordpress server with docker-compose</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="20"/></td>
-        <td>not started</td>
+        <td>In progress</td>
       </tr>
       <tr>
         <td>12</td>
