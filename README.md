@@ -291,9 +291,7 @@
   <h2> Cursus 42 </h2>
 </div>
 
-
-![graph42](https://github.com/user-attachments/assets/55ccdfdf-c0a7-4129-b270-2c5aa2895fda)
-
+![cursus_2025](https://github.com/user-attachments/assets/0eea9356-c598-4ec4-a1f2-fe51d6764a87)
 
 
 <!-- ===== cursus 42 picture end ===== -->
