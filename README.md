@@ -189,7 +189,7 @@
         <td>INCEPTION</td>
         <td>Setting up a wordpress server with docker-compose</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="20"/></td>
-        <td>In progress</td>
+        <td>✔</td>
       </tr>
       <tr>
         <td>12</td>
@@ -257,9 +257,9 @@
       </tr>
       <tr>
         <td>4</td>
-        <td>C++ PISCINE</td>
+        <td>C++ and C</td>
         <td>Intensive introduction to the C++ programming language</td>
-        <td>not started</td>
+        <td>✔</td>
       </tr>
       <tr>
         <td>5</td>
